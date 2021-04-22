@@ -8,8 +8,7 @@ import requests
 SUCCESS = 0
 ERR_FILE_NOT_FOUND = 1
 ERR_WRONG_JSON = 2
-ERR_MISSING_METHOD = 3
-ERR_STATUS_CODE = 4
+ERR_STATUS_CODE = 3
 
 def request_is_valid(request):
     """Return true if the request is valid.
