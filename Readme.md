@@ -1,5 +1,7 @@
 # SPDK JSON-RPC client
 
+## Quick description
+
 See [JSON-RPC Remote access](https://spdk.io/doc/jsonrpc_proxy.html)
 
 This script allows to read a JSON file that contains several requests.
@@ -20,8 +22,8 @@ This script allows to read a JSON file that contains several requests.
 The body of a request is a copy/paste of JSON-RPC example given
 on [SPDK:JSON-RPC](https://spdk.io/doc/jsonrpc.html).
 
----
-
+## Help
+```
 usage: spdk_json_rpc_client.py [-h] [--verbose] [--url location] [--port PORT]
                                [--user username] [--passwd password]
                                jsonfile
@@ -59,4 +61,4 @@ optional arguments:
                         the username [default: admin]
   --passwd password, -p password
                         the password [default: admin]
-
+```
