@@ -1,0 +1,7 @@
+{
+	"Get available tranport for NVMe-oF": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "nvmf_get_transports"
+	}
+}

@@ -6,7 +6,7 @@
 		"params": {
 			"nqn": "nqn.2020-11.io.spdk:cnode1",
 			"namespace": {
-				"bdev_name": "cc9d9020-ba24-48cc-9cb5-d342fce0fe0b",
+				"bdev_name": "527ca794-e808-44fe-89a2-ae373cc0034d",
 				"nsid": 10
 			}
 		}

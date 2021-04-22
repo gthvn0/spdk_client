@@ -5,7 +5,7 @@
 		"method": "nvmf_create_subsystem",
 		"params": {
 			"nqn": "nqn.2020-11.io.spdk:cnode1",
-			"allow_any_host": True,
+			"allow_any_host": true,
 			"serial_number": "SKENRO4VDB8X"
 		}
 	}
