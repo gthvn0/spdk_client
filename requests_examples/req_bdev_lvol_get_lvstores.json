@@ -1,0 +1,6 @@
+{
+	"bdev_lvol_get_lvstores": {
+		"id": 1,
+		"method": "bdev_lvol_get_lvstores"
+	}
+}

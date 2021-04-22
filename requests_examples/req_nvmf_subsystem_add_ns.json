@@ -1,0 +1,14 @@
+{
+	"Add a namespace to a subsystem": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "nvmf_subsystem_add_ns",
+		"params": {
+			"nqn": "nqn.2020-11.io.spdk:cnode1",
+			"namespace": {
+				"bdev_name": "cc9d9020-ba24-48cc-9cb5-d342fce0fe0b",
+				"nsid": 10
+			}
+		}
+	}
+}

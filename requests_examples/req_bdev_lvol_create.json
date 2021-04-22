@@ -1,0 +1,12 @@
+{
+	"Create a volume LVOL0 on LVS0": {
+		"jsonrpc": "2.0",
+		"method": "bdev_lvol_create",
+		"id": 1,
+		"params": {
+			"lvol_name": "LVOL0",
+			"size": 1048576,
+			"lvs_name": "LVS0"
+		}
+	}
+}

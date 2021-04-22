@@ -1,0 +1,12 @@
+{
+	"Construct an NVMe over Fabrics target subsystem": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "nvmf_create_subsystem",
+		"params": {
+			"nqn": "nqn.2020-11.io.spdk:cnode1",
+			"allow_any_host": True,
+			"serial_number": "SKENRO4VDB8X"
+		}
+	}
+}

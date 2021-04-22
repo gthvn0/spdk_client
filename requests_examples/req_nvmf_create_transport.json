@@ -1,0 +1,11 @@
+{
+	"Initialize a TCP NVMe-oF transport": {
+		"jsonrpc": "2.0",
+		"method": "nvmf_create_transport",
+		"id": 1,
+		"params": {
+			"trtype": "tcp",
+			"max_queue_depth": 64
+		}
+	}
+}

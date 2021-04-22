@@ -1,0 +1,11 @@
+{
+	"Construct a logical volume store with Nvme0n1": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "bdev_lvol_create_lvstore",
+		"params": {
+			"lvs_name": "LVS0",
+			"bdev_name": "Nvme0n1"
+		}
+	}
+}

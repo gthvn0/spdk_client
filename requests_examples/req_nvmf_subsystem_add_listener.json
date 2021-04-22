@@ -1,0 +1,15 @@
+{
+	"Add a new listen address to an NVMe-oF subsystem": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "nvmf_subsystem_add_listener",
+		"params": {
+			"nqn": "nqn.2020-11.io.spdk:cnode1",
+			"listen_address": {
+				"trtype": "tcp",
+				"traddr": "10.7.0.2",
+				"trsvcid": "8009"
+			}
+		}
+	}
+}

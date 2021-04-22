@@ -1,0 +1,6 @@
+{
+	"nvmf_get_subsystems": {
+		"id": 1,
+		"method": "nvmf_get_subsystems"
+	}
+}

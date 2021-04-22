@@ -1,0 +1,12 @@
+{
+	"Construct NVMe bdev": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "bdev_nvme_attach_controller",
+		"params": {
+			"trtype": "pcie",
+			"name": "Nvme0",
+			"traddr": "0000:00:0e.0"
+		}
+	}
+}

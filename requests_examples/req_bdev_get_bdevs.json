@@ -1,0 +1,6 @@
+{
+	"bdev_get_bdevs": {
+		"id": 1,
+		"method": "bdev_get_bdevs"
+	}
+}

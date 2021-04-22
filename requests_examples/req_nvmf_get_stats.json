@@ -1,0 +1,7 @@
+{
+	"nvmf_get_stats": {
+		"jsonrpc": "2.0",
+		"id": 1,
+		"method": "nvmf_get_stats"
+	}
+}
